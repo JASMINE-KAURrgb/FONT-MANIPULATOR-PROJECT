@@ -1,0 +1,37 @@
+.heading{
+    font-size: 30px !important;
+    width: 100% !important;
+    font-family: fantasy !important;
+    color:darkmagenta !important;
+    background-image:linear-gradient(lime,orange) !important;
+    box-shadow: 5px 5px 5px blue !important;
+}
+body{
+    background-image:linear-gradient(to right , pink,black);
+}
+canvas{
+    border: 5px dashed lightskyblue;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px rgb(219, 146, 18);
+    background-image: linear-gradient(blue, dodgerblue);
+}
+.copy_right_footer{
+    position:fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(pink,lightskyblue);
+    line-height: 3;
+    text-align: center;
+    font-size: 17px;
+    font-family: monospace;
+    border: 3px solid deepskyblue;
+    box-shadow:  5px 5px 5px fuchsia;
+    border-radius: 30px;
+  }
+  b{
+      font-size: 30px !important;
+      color: darkblue !important;
+      font-weight: bold;
+      font-family: sans-serif;
+  }
